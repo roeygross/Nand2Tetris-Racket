@@ -5,4 +5,4 @@ Compiler of multiple JACK files to a VM files.
 
 `> racket compiler.rkt <path_to_folder_with_VM_files> `
 
-Output: translatedVMs.asm
+Output: compiledJACK.vm *
