@@ -6,6 +6,7 @@
 
 
 We've created Jack-Assembly-to-VM compiler, then compiled and created Pong Game VIA Nand2Tetris VM Language Emulator:
+![image](https://github.com/user-attachments/assets/d9393c4b-16a2-476a-a7c0-c8acc9c47fb6)
 
 ![image](https://github.com/user-attachments/assets/26d503fd-500b-4f14-b63b-56463a87c218)
-![image](https://github.com/user-attachments/assets/d9393c4b-16a2-476a-a7c0-c8acc9c47fb6)
+
