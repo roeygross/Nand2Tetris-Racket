@@ -1,4 +1,4 @@
-# Nand2Tetris-Racket-Scheme
+# Nand2Tetris-Racket
 **Nand2Tetris projects made using Racket language**
 
 
